@@ -1,0 +1,8 @@
+.themeview{
+    height: 30vh;
+    border: 1px solid red;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
+}
